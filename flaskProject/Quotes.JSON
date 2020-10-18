@@ -1,0 +1,106 @@
+[
+    {
+        "Type": "Hope",
+        "Quote": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+        "Author": "Bill Keane"
+    },
+    {
+        "Type": "Hope",
+        "Quote": "We must accept finite disappointment, but never lose infinite hope.",
+        "Author": "Martin Luther King, Jr"
+    },
+    {
+        "Type": "Hope",
+        "Quote": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+        "Author": "Albert Einstein"
+    },
+    {
+        "Type": "Hope",
+        "Quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+        "Author": "Helen Keller"
+    },
+
+    {
+        "Type": "Wise",
+        "Quote": "The Best Way To Get Started Is To Quit Talking And Begin Doing.",
+        "Author": "Walt Disney"
+    },
+    {
+        "Type": "Wise",
+        "Quote": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
+        "Author": "Winston Churchill"
+    },
+    {
+        "Type": "Wise",
+        "Quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+        "Author": "Will Rogers"
+    },
+    {
+        "Type": "Wise",
+        "Quote": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+        "Author": "Steve Jobs"
+    },
+
+    {
+        "Type": "Strong",
+        "Quote": "Strength does not come from winning. Your struggles develop your strengths.",
+        "Author": "Arnold Schwarzenegger"
+    },
+    {
+        "Type": "Strong",
+        "Quote": "The world breaks everyone, and afterward, some are strong at the broken places.",
+        "Author": "Ernest Hemingway"
+    },
+    {
+        "Type": "Strong",
+        "Quote": "There are two ways of exerting one’s strength: one is pushing down, the other is pulling up.",
+        "Author": "Booker T. Washington"
+    },
+    {
+        "Type": "Strong",
+        "Quote": "I like criticism. It makes you strong.",
+        "Author": "Lebron James"
+    },
+
+    {
+        "Type": "Philosophy",
+        "Quote": "Happiness is not something ready made. It comes from your own actions.",
+        "Author": "Dalai Lama XIV"
+    },
+    {
+        "Type": "Philosophy",
+        "Quote": "Whatever you are, be a good one.",
+        "Author": "Abraham Lincoln"
+    },
+    {
+        "Type": "Philosophy",
+        "Quote": "Impossible is just an opinion.",
+        "Author": "Paulo Coelho"
+    },
+    {
+        "Type": "Philosophy",
+        "Quote": "Don’t be afraid to give up the good to go for the great.",
+        "Author": "John D. Rockefeller"
+    },
+
+    {
+        "Type": "Inspire",
+        "Quote": "The secret of getting ahead is getting started.",
+        "Author": "Mark Twain"
+    },
+    {
+        "Type": "Inspire",
+        "Quote": "Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.",
+        "Author": "Joss Whedon"
+    },
+    {
+        "Type": "Inspire",
+        "Quote": "Do one thing every day that scares you.",
+        "Author": "Eleanor Roosevelt"
+    },
+    {
+        "Type": "Inspire",
+        "Quote": "If something is important enough, even if the odds are stacked against you, you should still do it.",
+        "Author": "Elon Musk"
+    }
+]
