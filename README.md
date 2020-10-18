@@ -1,7 +1,7 @@
 # Motivational Quotes
 
 ### Steps to run
-1. Run `pip install -r requiremets.txt`.
+1. Run `pip install -r requiremets.txt` in a terminal from the flask folder.
 2. Run `python app.py` in a terminal in the background. The app depends on this python script for database queries
 3. Start the app in xcode and start using your motivational quotes
 
